@@ -1,0 +1,33 @@
+<application>
+  <component name="TipsStore">
+    <entry projectPath="D:/items/cassandra/dubbo-leiyou-cassandra" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/cassandra/leo-cassandra" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/energy-app-restart/trunk/app-restart" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/flowable" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/leo-service/backend" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/mongdb-demo" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/单机版/singleShare" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/历史仪表/trunk" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/能源管理/java/energy-app-cms/trunk" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/能源管理/java/energy-app-fee/trunk" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/能源管理/java/energy-app-mil/trunk" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/能源管理/java/energy-app-organization/trunk" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/能源管理/java/energy-app-resource/trunk" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/能源管理/java/energy-app-statistics/trunk" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/能源管理/java/energy-app-vrv" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/能源管理/java/energy-app-wx/trunk" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/能源管理/java/energy-common/trunk" startUpFlag="FIRST" />
+    <entry projectPath="D:/items/能源管理/java/energy-share/trunk" startUpFlag="FIRST" />
+    <entry projectPath="D:/unionpay/Java Version SDK (通用版)/ACPSample_YsfContractPay" startUpFlag="FIRST" />
+    <entry projectPath="D:/unionpay/Java Version SDK (通用版)/GenerateSqlShellCommand" startUpFlag="FIRST" />
+    <entry projectPath="D:/unionpay/Java Version SDK (通用版)/ZABProtocolTest" startUpFlag="FIRST" />
+    <entry projectPath="E:/IJPay" startUpFlag="FIRST" />
+    <entry projectPath="E:/IJPay/IJPay-Demo-SpringBoot" startUpFlag="FIRST" />
+    <entry projectPath="E:/TestDemo" startUpFlag="FIRST" />
+    <entry projectPath="E:/TestRedisLock" startUpFlag="FIRST" />
+    <entry projectPath="E:/blade-starter" startUpFlag="FIRST" />
+    <entry projectPath="E:/spring-data-cassandra" startUpFlag="FIRST" />
+    <entry projectPath="E:/spring-data-cassandra-2" startUpFlag="FIRST" />
+    <entry projectPath="E:/spring-data-cassandra/spring-data-cassandra" startUpFlag="FIRST" />
+  </component>
+</application>

@@ -1,0 +1,14 @@
+<templateSet group="Java">
+  <template name="ifcn" value="if (!org.springframework.util.CollectionUtils.isEmpty($COLLECTION$)){&#10;    $END$&#10;}" description="if collection is not empty" toReformat="false" toShortenFQNames="true">
+    <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ifc" value="if (org.springframework.util.CollectionUtils.isEmpty($COLLECTION$)){&#10;    $END$&#10;}" description="if collection is empty" toReformat="false" toShortenFQNames="true">
+    <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,24 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.git;.hg;.logs;.project;.svn;CVS;__pycache__;_svn;target;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping pattern="配置Alpine liunx下文件的编码" type="AUTO_DETECTED" />
+      <mapping pattern="Dockerfile-debug" type="AUTO_DETECTED" />
+      <mapping pattern="DockerDebugfile" type="Dockerfile" />
+      <mapping pattern="Docker_Debugfile" type="Dockerfile" />
+      <mapping ext="yml" type="PLAIN_TEXT" />
+      <mapping ext="setting" type="PLAIN_TEXT" />
+      <removed_mapping ext="yml" type="YAML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="json" approved="true" type="JSON" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping pattern="DockerDebugfile" approved="true" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+    </extensionMap>
+  </component>
+</application>
