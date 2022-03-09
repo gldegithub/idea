@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="303" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="transporter" />
       <item value="is Annotation Present" />
       <item value="expunge Stale Entry" />
       <item value="Moved to extension function. Put the 'content' argument first to fix Java" />
@@ -43,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="625" />
-        <entry key="ENGLISH" value="627" />
+        <entry key="CHINESE" value="626" />
+        <entry key="ENGLISH" value="628" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="CROATIAN" value="2" />
