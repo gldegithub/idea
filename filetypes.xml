@@ -6,7 +6,6 @@
       <mapping pattern="Dockerfile-debug" type="AUTO_DETECTED" />
       <mapping pattern="DockerDebugfile" type="Dockerfile" />
       <mapping pattern="Docker_Debugfile" type="Dockerfile" />
-      <mapping ext="json" type="JSON" />
       <mapping ext="setting" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
