@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="303" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="so you see&#10;&#9;&#9; traces in logs without having to configure it." />
       <item value="tokenize" />
       <item value=" Failed to introspect annotated methods" />
       <item value="introspect" />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="631" />
-        <entry key="ENGLISH" value="633" />
+        <entry key="CHINESE" value="632" />
+        <entry key="ENGLISH" value="634" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="CROATIAN" value="2" />
