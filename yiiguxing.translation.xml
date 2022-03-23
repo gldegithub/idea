@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="303" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="add Ancestor Initializer" />
       <item value="   if there is no additional options, we output every single&#10;         KeyValue pair for the MDC in a similar format to Hashtable.toString()" />
       <item value="trace Hook Registering Bean Definition Registry Post Processor" />
       <item value="sleuth" />
@@ -54,7 +55,6 @@
       <item value=" Determine handler adapter for the current request." />
       <item value=" individually filter routes so that filterWhen error delaying is not a&#10;&#9;&#9;&#9;&#9; problem" />
       <item value="preserve" />
-      <item value="composite" />
     </histories>
     <option name="languageScores">
       <map>
