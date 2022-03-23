@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="303" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="   if there is no additional options, we output every single&#10;         KeyValue pair for the MDC in a similar format to Hashtable.toString()" />
       <item value="trace Hook Registering Bean Definition Registry Post Processor" />
       <item value="sleuth" />
       <item value="Noop Scope" />
@@ -54,12 +55,11 @@
       <item value=" individually filter routes so that filterWhen error delaying is not a&#10;&#9;&#9;&#9;&#9; problem" />
       <item value="preserve" />
       <item value="composite" />
-      <item value="Determine the autowire candidate in the given set of beans.&#10;&#9;  &lt;p&gt;Looks for {@code @Primary} and {@code @Priority} (in that order).&#10;&#9;  @param candidates a Map of candidate names and candidate instances&#10;&#9;  that match the required type, as returned by {@link findAutowireCandidates}&#10;&#9;  @param descriptor the target dependency to match against&#10;&#9;  @return the name of the autowire candidate, or {@code null} if none found" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="641" />
-        <entry key="ENGLISH" value="642" />
+        <entry key="CHINESE" value="642" />
+        <entry key="ENGLISH" value="643" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="5" />
