@@ -4,7 +4,7 @@
     <property name="created">2021-09-16T09:16:40</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2022-03-24T15:18:27</property>
+    <property name="modified">2022-03-25T10:19:22</property>
     <property name="originalScheme">Solarized Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1384,7 +1384,6 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="Implicit conversion" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Instance property reference ID">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -1395,7 +1394,6 @@
         <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
-    <option name="Interpolated String Injection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Invalid escape in string">
       <value>
         <option name="FOREGROUND" value="d43780" />
