@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="303" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="promote" />
+      <item value=" promote BootstrapContext to context" />
       <item value="deduce From Classpath" />
       <item value=" Trying to infer dataType org.springblade.system.enums.DateTypeEnum" />
       <item value=" log4j-to-slf4j bridge -&gt; we'll rather go with the SLF4J SPI;&#10;&#9;&#9;&#9;&#9; however, we still prefer Log4j over the plain SLF4J API since&#10;&#9;&#9;&#9;&#9; the latter does not have location awareness support." />
@@ -53,13 +55,11 @@
       <item value="SO REUSEADDR" />
       <item value=" The first vote should be itself." />
       <item value="FINALIZING" />
-      <item value="Interface for the leader election implementation." />
-      <item value="Election" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="646" />
-        <entry key="ENGLISH" value="647" />
+        <entry key="CHINESE" value="648" />
+        <entry key="ENGLISH" value="649" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="5" />
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647825987006" />
+    <option name="lastTrimTime" value="1648430429588" />
   </component>
   <component name="Settings">
     <option name="keepFormat" value="true" />
