@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="303" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="print Banner" />
       <item value="Property Sources Placeholders Resolver" />
       <item value="add Conversion Service" />
       <item value="Use names and ensure unique to protect against duplicates" />
@@ -54,12 +55,11 @@
       <item value="change Phase" />
       <item value="the last acknowledged epoch." />
       <item value="       Attach the Sender to this channel. Subsequent handlers use this&#10;       information to determine origins of messages." />
-      <item value="Handles server-side handshake." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="652" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="CHINESE" value="653" />
+        <entry key="ENGLISH" value="654" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="5" />
