@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="303" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value=" Instantiate all remaining (non-lazy-init) singletons." />
+      <item value=" Check for listener beans and register them." />
+      <item value="Initialize other special beans in specific context subclasses." />
+      <item value=" Detect a LoadTimeWeaver and prepare for weaving, if found." />
       <item value="register Shutdown Hook" />
       <item value="is Eligible" />
       <item value="Delegating Environment Decrypt" />
@@ -51,15 +55,11 @@
       <item value="lcurly" />
       <item value=" Unexpected token. Expected 'identifier' but was 'lcurly({)'" />
       <item value="Time expired" />
-      <item value=" Return the &quot;head task&quot; of the priority queue.  (The head task is an&#10;      task with the lowest nextExecutionTime.)" />
-      <item value="Extension Registry Lite" />
-      <item value="Persistent State" />
-      <item value="Participant State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="660" />
-        <entry key="ENGLISH" value="661" />
+        <entry key="CHINESE" value="665" />
+        <entry key="ENGLISH" value="666" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="5" />
