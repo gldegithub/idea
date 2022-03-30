@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="303" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value=" Make the bootstrap context a parent of the app context" />
       <item value=" Instantiate all remaining (non-lazy-init) singletons." />
       <item value=" Check for listener beans and register them." />
       <item value="Initialize other special beans in specific context subclasses." />
@@ -54,12 +55,11 @@
       <item value="identifier" />
       <item value="lcurly" />
       <item value=" Unexpected token. Expected 'identifier' but was 'lcurly({)'" />
-      <item value="Time expired" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="665" />
-        <entry key="ENGLISH" value="666" />
+        <entry key="CHINESE" value="666" />
+        <entry key="ENGLISH" value="667" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="5" />
