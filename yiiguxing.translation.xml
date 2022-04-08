@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="303" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="retain All" />
       <item value="Launch" />
       <item value=" Make the bootstrap context a parent of the app context" />
       <item value=" Instantiate all remaining (non-lazy-init) singletons." />
@@ -54,12 +55,11 @@
       <item value="literal" />
       <item value="'identifier' but was 'lcurly({)'" />
       <item value="identifier" />
-      <item value="lcurly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="667" />
-        <entry key="ENGLISH" value="668" />
+        <entry key="CHINESE" value="668" />
+        <entry key="ENGLISH" value="669" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="5" />
