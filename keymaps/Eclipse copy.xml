@@ -1,0 +1,13 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="Unwrap" />
+  <action id="one.util.ideaplugin.screenshoter.CopyImageAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt z" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+</keymap>

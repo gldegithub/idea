@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Unwrap">
+        <abbreviation name="unwrapOrRemove" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
