@@ -1,0 +1,89 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogX" value="928" />
+    <option name="newTranslationDialogY" value="303" />
+    <option name="pinNewTranslationDialog" value="true" />
+    <histories>
+      <item value=" Make the bootstrap context a parent of the app context" />
+      <item value=" Instantiate all remaining (non-lazy-init) singletons." />
+      <item value=" Check for listener beans and register them." />
+      <item value="Initialize other special beans in specific context subclasses." />
+      <item value=" Detect a LoadTimeWeaver and prepare for weaving, if found." />
+      <item value="register Shutdown Hook" />
+      <item value="is Eligible" />
+      <item value="Delegating Environment Decrypt" />
+      <item value="against" />
+      <item value="Resolve the single type argument of the given generic interface against" />
+      <item value="the given generic interface against" />
+      <item value=" Spring ConversionService to use instead of PropertyEditors" />
+      <item value="print Banner" />
+      <item value="Property Sources Placeholders Resolver" />
+      <item value="add Conversion Service" />
+      <item value="Use names and ensure unique to protect against duplicates" />
+      <item value="promote" />
+      <item value=" promote BootstrapContext to context" />
+      <item value="deduce From Classpath" />
+      <item value=" Trying to infer dataType org.springblade.system.enums.DateTypeEnum" />
+      <item value=" log4j-to-slf4j bridge -&gt; we'll rather go with the SLF4J SPI;&#10;&#9;&#9;&#9;&#9; however, we still prefer Log4j over the plain SLF4J API since&#10;&#9;&#9;&#9;&#9; the latter does not have location awareness support." />
+      <item value="only enable if bootstrap and legacy" />
+      <item value="add Ancestor Initializer" />
+      <item value="   if there is no additional options, we output every single&#10;         KeyValue pair for the MDC in a similar format to Hashtable.toString()" />
+      <item value="trace Hook Registering Bean Definition Registry Post Processor" />
+      <item value="sleuth" />
+      <item value="Noop Scope" />
+      <item value="Noop" />
+      <item value=" Correlation" />
+      <item value=" CorrelationScopeDecorator " />
+      <item value="baggage" />
+      <item value="Extended Whitespace Throwable Proxy Converter" />
+      <item value="Whitespace Throwable Proxy Converter" />
+      <item value="so you see&#10;&#9;&#9; traces in logs without having to configure it." />
+      <item value="tokenize" />
+      <item value=" Failed to introspect annotated methods" />
+      <item value="introspect" />
+      <item value="Failed to introspect annotated methods on class zipkin2.server.internal.ZipkinServerConfiguration" />
+      <item value="transporter" />
+      <item value="is Annotation Present" />
+      <item value="expunge Stale Entry" />
+      <item value="Moved to extension function. Put the 'content' argument first to fix Java" />
+      <item value=" Result of selection criteria is not boolean" />
+      <item value="SUBTRACT" />
+      <item value="VARIABLEREF" />
+      <item value="literal" />
+      <item value="'identifier' but was 'lcurly({)'" />
+      <item value="identifier" />
+      <item value="lcurly" />
+      <item value=" Unexpected token. Expected 'identifier' but was 'lcurly({)'" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="666" />
+        <entry key="ENGLISH" value="667" />
+        <entry key="AZERBAIJANI" value="1" />
+        <entry key="ESTONIAN" value="1" />
+        <entry key="FRENCH" value="5" />
+        <entry key="CROATIAN" value="2" />
+        <entry key="LATIN" value="2" />
+        <entry key="ROMANIAN" value="2" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="SWEDISH" value="2" />
+        <entry key="SPANISH" value="2" />
+        <entry key="GREEK" value="1" />
+        <entry key="VIETNAMESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1649215651235" />
+  </component>
+  <component name="Settings">
+    <option name="keepFormat" value="true" />
+    <option name="phoneticFontFamily" value="Book Antiqua" />
+    <option name="primaryFontFamily" value="Book Antiqua" />
+    <option name="primaryFontPreviewText" value="" />
+    <option name="showExplanation" value="true" />
+    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>

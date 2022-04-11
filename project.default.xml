@@ -1,0 +1,27 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">
+        <property name="last.edited.regexp" value="Sample Text" />
+        <property name="last_opened_file_path" value="D:/java/jdk1.8_64/bin/jvisualvm.exe" />
+        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
