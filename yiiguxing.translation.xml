@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="303" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="in a profile specific resource" />
+      <item value="imported from location" />
       <item value="roperty 'spring.profiles.include' imported from location 'class path resource [application-dev.yml]' is invalid in a profile specific resource [origin: class path resource [application-dev.yml]" />
       <item value="Granter" />
       <item value="get Granter" />
@@ -53,13 +55,11 @@
       <item value="is Annotation Present" />
       <item value="expunge Stale Entry" />
       <item value="Moved to extension function. Put the 'content' argument first to fix Java" />
-      <item value=" Result of selection criteria is not boolean" />
-      <item value="SUBTRACT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="672" />
-        <entry key="ENGLISH" value="673" />
+        <entry key="CHINESE" value="674" />
+        <entry key="ENGLISH" value="675" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="5" />
