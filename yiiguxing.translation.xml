@@ -4,58 +4,6 @@
     <option name="newTranslationDialogX" value="928" />
     <option name="newTranslationDialogY" value="303" />
     <option name="pinNewTranslationDialog" value="true" />
-    <histories>
-      <item value="in a profile specific resource" />
-      <item value="imported from location" />
-      <item value="roperty 'spring.profiles.include' imported from location 'class path resource [application-dev.yml]' is invalid in a profile specific resource [origin: class path resource [application-dev.yml]" />
-      <item value="Granter" />
-      <item value="get Granter" />
-      <item value="is Assignable From" />
-      <item value="&#10;  Copyright 2012-2020 the original author or authors.&#10; &#10;  Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#10;  you may not use this file except in compliance with the License.&#10;  You may obtain a copy of the License at&#10; &#10;       https:www.apache.orglicensesLICENSE-2.0&#10; &#10;  Unless required by applicable law or agreed to in writing, software&#10;  distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#10;  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#10;  See the License for the specific language governing permissions and&#10;  limitations under the License.&#10; " />
-      <item value="Nop Status Listener" />
-      <item value=" Make the bootstrap context a parent of the app context" />
-      <item value=" Instantiate all remaining (non-lazy-init) singletons." />
-      <item value=" Check for listener beans and register them." />
-      <item value="Initialize other special beans in specific context subclasses." />
-      <item value=" Detect a LoadTimeWeaver and prepare for weaving, if found." />
-      <item value="register Shutdown Hook" />
-      <item value="is Eligible" />
-      <item value="Delegating Environment Decrypt" />
-      <item value="against" />
-      <item value="Resolve the single type argument of the given generic interface against" />
-      <item value="the given generic interface against" />
-      <item value=" Spring ConversionService to use instead of PropertyEditors" />
-      <item value="print Banner" />
-      <item value="Property Sources Placeholders Resolver" />
-      <item value="add Conversion Service" />
-      <item value="Use names and ensure unique to protect against duplicates" />
-      <item value="promote" />
-      <item value=" promote BootstrapContext to context" />
-      <item value="deduce From Classpath" />
-      <item value=" Trying to infer dataType org.springblade.system.enums.DateTypeEnum" />
-      <item value=" log4j-to-slf4j bridge -&gt; we'll rather go with the SLF4J SPI;&#10;&#9;&#9;&#9;&#9; however, we still prefer Log4j over the plain SLF4J API since&#10;&#9;&#9;&#9;&#9; the latter does not have location awareness support." />
-      <item value="only enable if bootstrap and legacy" />
-      <item value="add Ancestor Initializer" />
-      <item value="   if there is no additional options, we output every single&#10;         KeyValue pair for the MDC in a similar format to Hashtable.toString()" />
-      <item value="trace Hook Registering Bean Definition Registry Post Processor" />
-      <item value="sleuth" />
-      <item value="Noop Scope" />
-      <item value="Noop" />
-      <item value=" Correlation" />
-      <item value=" CorrelationScopeDecorator " />
-      <item value="baggage" />
-      <item value="Extended Whitespace Throwable Proxy Converter" />
-      <item value="Whitespace Throwable Proxy Converter" />
-      <item value="so you see&#10;&#9;&#9; traces in logs without having to configure it." />
-      <item value="tokenize" />
-      <item value=" Failed to introspect annotated methods" />
-      <item value="introspect" />
-      <item value="Failed to introspect annotated methods on class zipkin2.server.internal.ZipkinServerConfiguration" />
-      <item value="transporter" />
-      <item value="is Annotation Present" />
-      <item value="expunge Stale Entry" />
-      <item value="Moved to extension function. Put the 'content' argument first to fix Java" />
-    </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="674" />
@@ -79,7 +27,7 @@
   </component>
   <component name="Settings">
     <option name="keepFormat" value="true" />
-    <option name="phoneticFontFamily" value="Book Antiqua" />
+    <option name="phoneticFontFamily" value="Arial Black" />
     <option name="primaryFontFamily" value="Book Antiqua" />
     <option name="primaryFontPreviewText" value="" />
     <option name="showExplanation" value="true" />
