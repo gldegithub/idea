@@ -1,5 +1,6 @@
 <application>
   <component name="AppStorage">
+    <option name="maxHistorySize" value="0" />
     <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="928" />
     <option name="newTranslationDialogY" value="303" />
@@ -27,8 +28,8 @@
   </component>
   <component name="Settings">
     <option name="keepFormat" value="true" />
-    <option name="phoneticFontFamily" value="Arial Black" />
-    <option name="primaryFontFamily" value="Book Antiqua" />
+    <option name="phoneticFontFamily" value="Microsoft YaHei UI" />
+    <option name="primaryFontFamily" value="Microsoft YaHei UI" />
     <option name="primaryFontPreviewText" value="" />
     <option name="showExplanation" value="true" />
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
