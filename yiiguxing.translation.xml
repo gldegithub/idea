@@ -33,6 +33,7 @@
     <option name="primaryFontPreviewText" value="" />
     <option name="showExplanation" value="true" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2b87fc04be0a6efb" />
