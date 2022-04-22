@@ -4,11 +4,10 @@
     <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="928" />
     <option name="newTranslationDialogY" value="303" />
-    <option name="pinNewTranslationDialog" value="true" />
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="722" />
-        <entry key="ENGLISH" value="723" />
+        <entry key="CHINESE" value="726" />
+        <entry key="ENGLISH" value="727" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="5" />
