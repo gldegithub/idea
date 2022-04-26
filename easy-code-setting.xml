@@ -22,7 +22,7 @@
     </option>
     <option name="currColumnConfigGroupName" value="Default" />
     <option name="currGlobalConfigGroupName" value="Default" />
-    <option name="currTemplateGroupName" value="gonglong" />
+    <option name="currTemplateGroupName" value="gong-long" />
     <option name="currTypeMapperGroupName" value="Default" />
     <option name="globalConfigGroupMap">
       <map>
@@ -93,6 +93,21 @@
                 </list>
               </option>
               <option name="name" value="Default" />
+            </TemplateGroup>
+          </value>
+        </entry>
+        <entry key="GongLong">
+          <value>
+            <TemplateGroup>
+              <option name="elementList">
+                <list>
+                  <Template>
+                    <option name="code" value="##导入宏定义&#10;$!{define.vm}&#10;&#10;##设置表后缀（宏定义）&#10;#setTableSuffix(&quot;Dao&quot;)&#10;&#10;##保存文件（宏定义）&#10;#save(&quot;/dao&quot;, &quot;Dao.java&quot;)&#10;&#10;##包路径（宏定义）&#10;#setPackageSuffix(&quot;dao&quot;)&#10;&#10;import java.util.List;&#10;&#10;import com.baomidou.mybatisplus.core.mapper.BaseMapper;&#10;import org.apache.ibatis.annotations.Param;&#10;import $!{tableInfo.savePackageName}.entity.$!tableInfo.name;&#10;&#10;##表注释（宏定义）&#10;#tableComment(&quot;表数据库访问层&quot;)&#10;public interface $!{tableName} extends BaseMapper&lt;$!tableInfo.name&gt; {&#10;&#10;/**&#10;* 批量新增数据（MyBatis原生foreach方法）&#10;*&#10;* @param entities List&lt;$!{tableInfo.name}&gt; 实例对象列表&#10;* @return 影响行数&#10;*/&#10;int insertBatch(@Param(&quot;entities&quot;) List&lt;$!{tableInfo.name}&gt; entities);&#10;&#10;/**&#10;* 批量新增或按主键更新数据（MyBatis原生foreach方法）&#10;*&#10;* @param entities List&lt;$!{tableInfo.name}&gt; 实例对象列表&#10;* @return 影响行数&#10;* @throws org.springframework.jdbc.BadSqlGrammarException 入参是空List的时候会抛SQL语句错误的异常，请自行校验入参&#10;*/&#10;int insertOrUpdateBatch(@Param(&quot;entities&quot;) List&lt;$!{tableInfo.name}&gt; entities);&#10;&#10;}&#10;" />
+                    <option name="name" value="demo" />
+                  </Template>
+                </list>
+              </option>
+              <option name="name" value="GongLong" />
             </TemplateGroup>
           </value>
         </entry>
@@ -206,6 +221,21 @@
                 </list>
               </option>
               <option name="name" value="custom" />
+            </TemplateGroup>
+          </value>
+        </entry>
+        <entry key="gong-long">
+          <value>
+            <TemplateGroup>
+              <option name="elementList">
+                <list>
+                  <Template>
+                    <option name="code" value="##引入宏定义&#10;$!define&#10;&#10;##使用宏定义设置回调（保存位置与文件后缀）&#10;#save(&quot;/entity&quot;, &quot;.java&quot;)&#10;&#10;##使用宏定义设置包后缀&#10;#setPackageSuffix(&quot;entity&quot;)&#10;&#10;##使用全局变量实现默认包导入&#10;$!autoImport&#10;import java.io.Serializable;&#10;&#10;##使用宏定义实现类注释信息&#10;#tableComment(&quot;实体类&quot;)&#10;public class $!{tableInfo.name} implements Serializable {&#10;    private static final long serialVersionUID = $!tool.serial();&#10;#foreach($column in $tableInfo.fullColumn)&#10;    #if(${column.comment})/**&#10;    * ${column.comment}&#10;    */#end&#10;&#10;    private $!{tool.getClsNameByFullName($column.type)} $!{column.name};&#10;#end&#10;&#10;#foreach($column in $tableInfo.fullColumn)&#10;##使用宏定义实现get,set方法&#10;#getSetMethod($column)&#10;#end&#10;&#10;}" />
+                    <option name="name" value="entity" />
+                  </Template>
+                </list>
+              </option>
+              <option name="name" value="gong-long" />
             </TemplateGroup>
           </value>
         </entry>
