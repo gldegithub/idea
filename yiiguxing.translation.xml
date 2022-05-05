@@ -6,8 +6,8 @@
     <option name="newTranslationDialogY" value="303" />
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="786" />
-        <entry key="ENGLISH" value="786" />
+        <entry key="CHINESE" value="787" />
+        <entry key="ENGLISH" value="787" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="5" />
@@ -24,7 +24,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650761788321" />
+    <option name="lastTrimTime" value="1651715310492" />
   </component>
   <component name="Settings">
     <option name="keepFormat" value="true" />
