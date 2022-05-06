@@ -29,7 +29,9 @@
       <set>
         <option value="java" />
         <option value="javacc" />
+        <option value="javascript" />
       </set>
     </option>
+    <option name="lastTabnineRecommendationDisplayDate" value="1651825564654" />
   </component>
 </application>
