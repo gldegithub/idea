@@ -235,7 +235,7 @@
                     <option name="name" value="module-mapper.java" />
                   </Template>
                   <Template>
-                    <option name="code" value="##引入宏定义&#10;$!define&#10;&#10;##使用宏定义设置回调（保存位置与文件后缀）&#10;#save(&quot;/dao&quot;, &quot;Mapper.java&quot;)&#10;&#10;##使用宏定义设置包后缀&#10;#setPackageSuffix(&quot;dao&quot;)&#10;&#10;import $!{tableInfo.savePackageName}.model.po.$!{tableInfo.name};&#10;import com.baomidou.mybatisplus.core.mapper.BaseMapper;&#10;import org.apache.ibatis.annotations.Mapper;&#10;&#10;##使用宏定义实现类注释信息&#10;#tableComment(&quot;Mapper&quot;)&#10;@Mapper&#10;public interface $!{tableInfo.name}Mapper extends BaseMapper&lt;$!{tableInfo.name}&gt; {&#10;&#10;}" />
+                    <option name="code" value="##引入宏定义&#10;$!define&#10;&#10;##使用宏定义设置回调（保存位置与文件后缀）&#10;#save(&quot;/dao/mapper&quot;, &quot;Mapper.java&quot;)&#10;&#10;##使用宏定义设置包后缀&#10;#setPackageSuffix(&quot;dao&quot;)&#10;&#10;import $!{tableInfo.savePackageName}.model.po.$!{tableInfo.name};&#10;import com.baomidou.mybatisplus.core.mapper.BaseMapper;&#10;import org.apache.ibatis.annotations.Mapper;&#10;&#10;##使用宏定义实现类注释信息&#10;#tableComment(&quot;Mapper&quot;)&#10;@Mapper&#10;public interface $!{tableInfo.name}Mapper extends BaseMapper&lt;$!{tableInfo.name}&gt; {&#10;&#10;}" />
                     <option name="name" value="mapper.java" />
                   </Template>
                   <Template>
