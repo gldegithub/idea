@@ -27,4 +27,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="complie external class" description="complie external class" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\jdk18\build\windows-x86_64-server-slowdebug\jdk\bin\javap.exe  -v" />
+      <option name="PARAMETERS" value="C:\Users\Administrator\Desktop\hello.class" />
+      <option name="WORKING_DIRECTORY" value="D:/jdk18/build/windows-x86_64-server-slowdebug/jdk/bin" />
+    </exec>
+  </tool>
 </toolSet>
