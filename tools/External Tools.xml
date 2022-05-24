@@ -31,7 +31,7 @@
     <exec>
       <option name="COMMAND" value="javap.exe  -v" />
       <option name="PARAMETERS" value="C:\Users\Administrator\Desktop\hello.class" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Administrator/Desktop" />
     </exec>
   </tool>
 </toolSet>
