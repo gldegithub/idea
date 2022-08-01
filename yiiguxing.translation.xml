@@ -6,8 +6,8 @@
     <option name="newTranslationDialogY" value="303" />
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="848" />
-        <entry key="ENGLISH" value="849" />
+        <entry key="CHINESE" value="851" />
+        <entry key="ENGLISH" value="852" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="5" />
@@ -33,6 +33,7 @@
     <option name="primaryFontPreviewText" value="" />
     <option name="showExplanation" value="true" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2b87fc04be0a6efb" />
