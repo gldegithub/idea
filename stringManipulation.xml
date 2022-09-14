@@ -9,5 +9,10 @@
         </ColumnAlignerModel>
       </list>
     </option>
+    <option name="lastAction">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToCamelCaseAction" />
+      </UniversalActionModel>
+    </option>
   </component>
 </application>
