@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="defaultProperties.yml" type="AUTO_DETECTED" />
+      <mapping pattern="shangdong_validation_xml" type="AUTO_DETECTED" />
       <mapping ext="policy" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="config" approved="true" type="XML" />
