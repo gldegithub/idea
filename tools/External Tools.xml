@@ -34,4 +34,11 @@
       <option name="WORKING_DIRECTORY" value="C:/Users/Administrator/Desktop" />
     </exec>
   </tool>
+  <tool name="javah -jni" description="生成头文件" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\java\jdk1.8_64\bin\javah.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="D:/java/jdk1.8_64/bin" />
+    </exec>
+  </tool>
 </toolSet>
