@@ -11,7 +11,7 @@
     </option>
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToCamelCaseAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToSnakeCaseOrCamelCaseAction" />
       </UniversalActionModel>
     </option>
   </component>
