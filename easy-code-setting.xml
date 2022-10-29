@@ -372,6 +372,11 @@
                     <option name="columnType" value="tinyint(\(\d+\))?" />
                     <option name="javaType" value="java.lang.Short" />
                   </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="json" />
+                    <option name="javaType" value="java.lang.String" />
+                    <option name="matchType" value="ORDINARY" />
+                  </TypeMapper>
                 </list>
               </option>
               <option name="name" value="Default" />
