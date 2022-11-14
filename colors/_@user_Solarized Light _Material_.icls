@@ -4,7 +4,7 @@
     <property name="created">2021-09-16T09:16:40</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2022-11-14T08:54:03</property>
+    <property name="modified">2022-11-14T09:35:55</property>
     <property name="originalScheme">Solarized Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -73,8 +73,8 @@
     <option name="FILESTATUS_RENAMED" value="6c71c4" />
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="268bd2" />
-    <option name="FILESTATUS_UNKNOWN" value="d33682" />
-    <option name="FILESTATUS_addedOutside" value="d33682" />
+    <option name="FILESTATUS_UNKNOWN" value="659999" />
+    <option name="FILESTATUS_addedOutside" value="ff956a" />
     <option name="FILESTATUS_changelistConflict" value="cb4b16" />
     <option name="FILESTATUS_modifiedOutside" value="6c71c4" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="eee8d5" />
@@ -97,7 +97,7 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="2b36" />
     <option name="METHOD_SEPARATORS_COLOR" value="eee8d5" />
     <option name="MODIFIED_LINES_COLOR" value="268bd2" />
-    <option name="MODIFIED_TAB_ICON" value="d33682" />
+    <option name="MODIFIED_TAB_ICON" value="8c36d3" />
     <option name="MT_FILESTATUS_ADDED" value="859900" />
     <option name="MT_FILESTATUS_COPIED" value="859900" />
     <option name="MT_FILESTATUS_DELETED" value="b58900" />
@@ -114,8 +114,8 @@
     <option name="MT_FILESTATUS_OBSOLETE" value="b58900" />
     <option name="MT_FILESTATUS_RENAMED" value="6c71c4" />
     <option name="MT_FILESTATUS_SWITCHED" value="268bd2" />
-    <option name="MT_FILESTATUS_UNKNOWN" value="d33682" />
-    <option name="MT_FILESTATUS_addedOutside" value="d33682" />
+    <option name="MT_FILESTATUS_UNKNOWN" value="659999" />
+    <option name="MT_FILESTATUS_addedOutside" value="ff956a" />
     <option name="MT_FILESTATUS_changelistConflict" value="cb4b16" />
     <option name="MT_FILESTATUS_modifiedOutside" value="6c71c4" />
     <option name="MnemonicIcon.background" value="e2dccb" />
@@ -124,7 +124,7 @@
     <option name="NOTIFICATION_BACKGROUND" value="999178" />
     <option name="PROMOTION_PANE" value="eee8d5" />
     <option name="QUESTION_HINT" value="b6cce9" />
-    <option name="READONLY_BACKGROUND" value="" />
+    <option name="READONLY_BACKGROUND" value="e3f8fd" />
     <option name="RECENT_LOCATIONS_SELECTION" value="eee8d5" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="fcf5bd" />
     <option name="RIGHT_MARGIN_COLOR" value="ded8c7" />
@@ -145,11 +145,11 @@
     <option name="ScrollBar.Transparent.hoverTrackColor" value="eee8d5" />
     <option name="ScrollBar.Transparent.thumbColor" value="d3368280" />
     <option name="ScrollBar.Transparent.trackColor" value="eee8d5" />
-    <option name="ScrollBar.hoverThumbColor" value="d33682" />
+    <option name="ScrollBar.hoverThumbColor" value="35d4f" />
     <option name="ScrollBar.hoverTrackColor" value="eee8d5" />
-    <option name="ScrollBar.thumbColor" value="d33682c0" />
+    <option name="ScrollBar.thumbColor" value="2f4747" />
     <option name="ScrollBar.trackColor" value="eee8d5" />
-    <option name="TAB_UNDERLINE" value="d33682" />
+    <option name="TAB_UNDERLINE" value="3685d3" />
     <option name="TAB_UNDERLINE_INACTIVE" value="d33682c0" />
     <option name="TEARLINE_COLOR" value="93a1a1" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="e8f7c9" />
@@ -1263,7 +1263,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="e2dfb2" />
+        <option name="BACKGROUND" value="cbe1e6" />
         <option name="ERROR_STRIPE_COLOR" value="268bd2" />
       </value>
     </option>
@@ -1646,10 +1646,13 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL">
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -3032,10 +3035,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="eee8d5" />
+        <option name="BACKGROUND" value="99ccbb" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ffcc00" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
